@@ -1,0 +1,40 @@
+.logo-spacer {
+  background-color: rgb(223, 31, 45);
+  position: absolute;
+  left: 386px;
+  top: 510px;
+  width: 347px;
+  height: 62px;
+  z-index: 42;
+}
+
+
+.server-name {
+  font-size: 50px;
+  font-family: "Open Sans";
+  text-transform: uppercase;
+  color: rgb(33, 33, 33);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 83.656px;
+  top: 213.5px;
+  z-index: 15;
+}
+
+.welcome {
+  font-size: 50px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.67888371598415,0,0,0.67888371598415,0,0);
+  -webkit-transform: matrix( 0.67888371598415,0,0,0.67888371598415,0,0);
+  -ms-transform: matrix( 0.67888371598415,0,0,0.67888371598415,0,0);
+  position: absolute;
+  left: 598.782px;
+  top: 482px;
+  z-index: 45;
+}
