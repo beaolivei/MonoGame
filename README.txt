@@ -4,4 +4,4 @@ This Landing Page was made in less than 6 hours and I used HTML5 templates to co
 
 
 The JavaScript effects were all made with libraries. The final page can be checked in : 
-www.monogames.monolithserver.com
+http://monogames.monolithservers.com/
